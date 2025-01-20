@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文档.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试文档"
+              "title": "test"
             }
           }
         ],
@@ -193,9 +193,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "20ad7dd95a77b5c2",
+  "active": "654c890a40365493",
   "lastOpenFiles": [
-    "欢迎.md",
-    "测试文档.md"
+    "test.md",
+    "欢迎.md"
   ]
 }
